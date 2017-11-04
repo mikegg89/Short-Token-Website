@@ -1,0 +1,102 @@
+	
+
+.back {
+	background-image: url("../images/chart.jpg");
+	padding: 200px 0px;
+	margin: 0px;	
+
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+img.resize {
+ 	max-width:100%;
+	max-height:100%;
+}
+
+img.resize2 {
+	max-width:120px;
+	max-height:120px;
+	text-align:center;
+	display:block;
+}
+
+.centerImage {
+	text-align:center;
+	display:block;
+}
+
+.center {
+	text-align: center;
+
+}
+
+.center1 {
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	color: #ffffff;
+	font-size: 100px;
+}
+
+.center2 {
+	text-align: center;
+	color: #bc8f2d;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.centerwhitepaper {
+	text-align: center;
+	color: #bc8f2d;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.centerroadmap {
+	text-align: center;
+	color: #bc8f2d;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+.centercoinindex {
+	text-align: center;
+	color: #bc8f2d;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.wp {
+	padding-bottom: 165px;
+}
+
+.wpp {
+	padding-bottom: 157px;
+}
+
+.wppp {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.center3 {
+	text-align: center;
+	color: #ffffff;
+}
+
+.lightBG {
+	padding-top: 90px;
+	padding-bottom: 100px;
+	margin: 10px;
+	background: #ffffff;
+}
+
+
+.btn {
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	color: #ffffff;
+	
+}
